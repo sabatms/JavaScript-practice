@@ -1,0 +1,50 @@
+let num1 =3
+undefined
+num1
+3
+let num2=2.5
+undefined
+num2
+2.5
+num1
+3
+num1+num2
+5.5
+num1-num2
+0.5
+num1*num2
+7.5
+num1
+3
+num1/num2
+1.2
+9**0.5
+3
+9**2
+81
+27**(1/3)
+3
+16**(1/4)
+2
+9%2
+1
+10%2
+0
+num1 = num1+1
+4
+num1++
+4
+num1
+5
+num1--
+5
+num--
+Uncaught ReferenceError: num is not defined
+    <anonymous> debugger eval code:1
+debugger eval code:1:1
+num1--
+4
+num1--
+3
+num1--
+2
