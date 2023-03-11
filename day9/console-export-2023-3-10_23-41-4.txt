@@ -1,0 +1,8 @@
+23 day9.js:3:9
+true day9.js:6:9
+typeof true
+"boolean"
+typeof"true"
+"string"
+typeof 0
+"number"
