@@ -1,0 +1,14 @@
+age=23
+23
+age==23
+true
+age>=23
+true
+age>22
+true
+age!=23
+false
+age!=24
+true
+age<34
+true
